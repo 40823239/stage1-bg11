@@ -172,7 +172,7 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;h3&gt;協同產品設計實習&lt;/h3&gt;
+    &lt;h3&gt;協同產品設計實習 stage-bg11&lt;/h3&gt;
     &lt;p&gt;
         &lt;small&gt;組員 40823205 and 40823239&lt;/small&gt;
     &lt;/p&gt;
@@ -207,13 +207,17 @@ vertical: body pane on the botton</t>
   &lt;h2&gt;組合圖模擬&lt;/h2&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
-    &lt;h1&gt;THE END&lt;/h1&gt;
-    &lt;/section&gt;</t>
+<t tx="leo.20200818195800.1">&lt;section&gt;
+   &lt;p&gt;
+        &lt;small&gt;stage1-bg11
+這次的分組作業跟之前的比較不一樣，建倉儲多了協同要跟組員一起維護小組倉儲，也遇到各自推送、沒有同步的問題，但到後面越做越熟練， 對協同的操做也變比較熟悉，也重新複習了REVEAL的編輯，為之後的4人及8人小組做好基礎&lt;/small&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210319143026.1">
 &lt;section&gt;
-   iframe width="560" height="315" src="https://www.youtube.com/embed/ewGh-psdmYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-  &lt;h2&gt;參考資料&lt;/h2&gt;
+    
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ewGh-psdmYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;h2&gt;組合圖模擬&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319143137.1">
 &lt;section&gt;
