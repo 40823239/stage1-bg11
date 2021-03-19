@@ -209,7 +209,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818195800.1">&lt;section&gt;
    &lt;p&gt;
-        &lt;small&gt;stage1-bg11
+        &lt;small&gt;心得:
 這次的分組作業跟之前的比較不一樣，建倉儲多了協同要跟組員一起維護小組倉儲，也遇到各自推送、沒有同步的問題，但到後面越做越熟練， 對協同的操做也變比較熟悉，也重新複習了REVEAL的編輯，為之後的4人及8人小組做好基礎&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
