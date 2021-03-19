@@ -19,10 +19,12 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20210319143137.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh></v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20210319143026.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818195800.1"><vh>slide 31</vh></v>
 </v>
 </v>
@@ -181,6 +183,7 @@ vertical: body pane on the botton</t>
         &lt;p&gt;&lt;img alt="" height="279" src="https://40823239.github.io/stage1-bg11/images/S__9568308.jpg" width="520"/&gt;&lt;/p&gt;
     
   &lt;h2&gt;組合圖&lt;/h2&gt;
+  
 &lt;/section&gt;
 
 </t>
@@ -207,5 +210,21 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;/section&gt;</t>
+<t tx="leo.20210319143026.1">
+&lt;section&gt;
+   iframe width="560" height="315" src="https://www.youtube.com/embed/ewGh-psdmYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;h2&gt;參考資料&lt;/h2&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319143137.1">
+&lt;section&gt;
+   &lt;p&gt;
+        &lt;small&gt;stage1-bg11
+題目:鋼板滑車
+動機 :能夠更加省力的舉起重物
+第二周:繪製零件圖
+第三周:修改並測試
+第四周:報告內容&lt;/small&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
